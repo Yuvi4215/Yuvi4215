@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Rest API, JavaScript, ReactJs**
 
-- 🤝 I’m looking for help with **Pet Care Application**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Yuvi4215](https://github.com/Yuvi4215)
 
 - 💬 Ask me about **Java, J2EE, Hibernate, SpringBoot MVC, SQL and NoSQL.**
