@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Library Portal Web Application**
 
-- 🌱 I’m currently learning **Rest API, JavaScript, ReactJs**
+- 🌱 I’m currently learning **Python, Rest API, JavaScript, ReactJs and Angular**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yuvi4215](https://github.com/Yuvi4215)
 
