@@ -57,8 +57,4 @@
 
 ---
 
-### ⚡ Extra Cool Features
-- Animated typing effect: use [GitHub Readme Typing](https://github.com/DenverCoder1/github-readme-typing-svg) for a **dynamic introduction**  
-- Light & dark theme compatibility for GitHub stats  
-- Skillicons.dev icons for **consistent, modern iconography**  
-- Visual GitHub commit streak to encourage **daily coding motivation**
+
