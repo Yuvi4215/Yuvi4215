@@ -42,7 +42,7 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yuvi4215&show_icons=true&theme=dracula&hide_border=false" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvi4215&theme=dracula&hide_border=false" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvi4215" alt="GitHub Streak" width="48%"/>
 </p>
 
 <p align="center">
