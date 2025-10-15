@@ -41,8 +41,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuvi4215&show_icons=true&theme=dracula&hide_border=false" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvi4215" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yuvi4215&show_icons=true&theme=dracula&hide_border=false" alt="GitHub Stats" width="75%"/>
+  <img src="https://streak-stats.demolab.com?user=yuvi4215&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"  width="75%"/>
 </p>
 
 <p align="center">
