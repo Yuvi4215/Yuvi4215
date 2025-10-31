@@ -1,60 +1,113 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#00ffff;">Yuvraj Varma</span></h1>
-<h3 align="center">🚀 Full Stack Developer | 💡 Tech Enthusiast | 🌍 India</h3>
+<!-- Glowing Typing Header -->
+    <p align="center">
+        <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=36&duration=3500&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=👋+Hey,+I'm+Yuvraj+Varma;⚡+Full+Stack+Developer;💡+Innovator+%7C+Tech+Visionary;🚀+Crafting+Code+With+Elegance"
+            alt="Typing Animation">
+    </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yuvi4215&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+    <!-- Golden Divider -->
+    <p align="center">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=3&section=header" />
+    </p>
 
----
+    <!-- Profile Badge -->
+    <p align="center">
+        <img src="https://komarev.com/ghpvc/?username=yuvi4215&label=Profile%20Views&color=FFD700&style=for-the-badge"
+            alt="Profile Views" />
+        <img
+            src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-FFD700?style=for-the-badge&logo=react&logoColor=000000" />
+        <img
+            src="https://img.shields.io/badge/Lives-India-FFD700?style=for-the-badge&logo=google-earth&logoColor=000000" />
+    </p>
 
-### 💫 About Me
-- 🔭 I’m currently working on **Library Portal Web Application**  
-- 🌱 I’m learning **Python, Data Science, AI, ReactJs & Angular**  
-- 👨‍💻 Check out my projects at [GitHub](https://github.com/Yuvi4215)  
-- 💬 Ask me about **Java, Spring Boot, Hibernate, SQL, NoSQL**  
-- 📫 Reach me at **yuvrajvarma7777@gmail.com**  
-- ⚡ Fun fact: **Mechanical Engineer turned Full Stack Developer!**
+    ---
 
----
+    ### 💫 About Me
+    <p align="center">
+        I’m a passionate <b style="color:#FFD700;">Full Stack Developer</b> who loves merging elegant design with
+        powerful code.<br>
+        My goal? <b style="color:#FFD700;">To build impactful digital experiences</b> that feel as good as they
+        look.<br><br>
+        🧠 Currently learning <b>AI, Data Science, and Advanced React</b> <br>
+        🔥 Exploring <b>Microservices, Cloud, and Scalable Systems</b> <br>
+        💬 Ask me about <b>Java, Spring Boot, React, and SQL</b> <br>
+        🎯 Fun fact: I debug with a playlist full of Lo-Fi vibes 🎧
+    </p>
 
-### 🌐 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/yuvraj-varma-915830305/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40"/>
-  </a>
-  <a href="https://instagram.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40"/>
-  </a>
-  <a href="mailto:yuvrajvarma7777@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40"/>
-  </a>
-</p>
+    ---
 
----
+    ### 🌐 Connect With Me
+    <p align="center">
+        <a href="https://www.linkedin.com/in/yuvraj-varma-915830305/" target="_blank"><img
+                src="https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=000000" /></a>
+        <a href="https://instagram.com/" target="_blank"><img
+                src="https://img.shields.io/badge/Instagram-FFD700?style=for-the-badge&logo=instagram&logoColor=000000" /></a>
+        <a href="mailto:yuvrajvarma7777@gmail.com" target="_blank"><img
+                src="https://img.shields.io/badge/Gmail-FFD700?style=for-the-badge&logo=gmail&logoColor=000000" /></a>
+        <a href="https://github.com/Yuvi4215" target="_blank"><img
+                src="https://img.shields.io/badge/GitHub-FFD700?style=for-the-badge&logo=github&logoColor=000000" /></a>
+    </p>
 
-### 🛠️ Languages & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,angular,spring,git,postgres,postman" />
-</p>
+    ---
 
----
+    ### 🛠️ Languages & Tools
+    <p align="center">
+        <img
+            src="https://skillicons.dev/icons?i=java,python,js,react,angular,html,css,spring,hibernate,mysql,git,postman,linux&theme=dark" />
+    </p>
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuvi4215&show_icons=true&theme=dracula&hide_border=false" alt="GitHub Stats" width="75%"/>
-  <img src="https://streak-stats.demolab.com?user=yuvi4215&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"  width="75%"/>
-</p>
+    ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvi4215&layout=compact&theme=dracula&hide_border=false" alt="Top Languages" width="40%"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=yuvi4215&theme=radical&no-frame=true&no-bg=true&margin-w=5" alt="Trophies" width="55%"/>
-</p>
+    ### 📊 GitHub Analytics
+    <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=yuvi4215&show_icons=true&bg_color=000000&title_color=FFD700&text_color=FFD700&icon_color=FFD700&border_color=FFD700&border_radius=15&include_all_commits=true&count_private=true&hide_title=false"
+            width="35%" alt="GitHub Stats" />
+    </p>
 
----
+    <p align="center">
+        <img src="https://streak-stats.demolab.com?user=yuvi4215&background=000000&border=FFD700&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&currStreakNum=FFD700&sideLabels=FFD700&sideNums=FFD700"
+            width="35%" alt="GitHub Streak" />
+    </p>
 
-### 💡 Fun Quote
-<p align="center">"Code is like humor. When you have to explain it, it’s bad." 😎</p>
+    <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvi4215&layout=compact&bg_color=000000&title_color=FFD700&text_color=FFD700&border_color=FFD700&langs_count=10"
+            width="30%" alt="Top Languages" />
+    </p>
+    <p align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=yuvi4215&theme=onestar&no-frame=true&column=4&margin-w=15&margin-h=15"
+            width="35%" alt="GitHub Trophies" />
+    </p>
 
----
+    ---
 
+    ### ⚡ Dynamic Developer Quote
+    <p align="center">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2500&color=FFD700&center=true&vCenter=true&width=700&lines=“First,+solve+the+problem.+Then,+write+the+code.”;“Simplicity+is+the+soul+of+efficiency.”;“Code+never+lies,+comments+sometimes+do.”"
+            alt="Dynamic Quote Animation" />
+    </p>
 
+    ---
+
+    ### 🏆 Highlight Projects
+    <p align="center">
+        <a href="https://github.com/Yuvi4215/Library-Portal">
+            <img
+                src="https://github-readme-stats.vercel.app/api/pin/?username=yuvi4215&repo=Library-Portal&bg_color=000000&title_color=FFD700&text_color=FFD700&icon_color=FFD700&border_color=FFD700" />
+        </a>
+        <a href="https://github.com/Yuvi4215/banking_management_system_console">
+            <img
+                src="https://github-readme-stats.vercel.app/api/pin/?username=yuvi4215&repo=banking_management_system_console&bg_color=000000&title_color=FFD700&text_color=FFD700&icon_color=FFD700&border_color=FFD700" />
+        </a>
+    </p>
+
+    ---
+
+    ### 🎇 "Design meets Logic"
+    <p align="center">
+        <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=2000&color=FFD700&center=true&vCenter=true&width=700&lines=✨+Crafting+Elegance+in+Every+Line+of+Code+✨;⚙️+Where+Design+Meets+Logic+⚙️"
+            alt="Creative Outro">
+    </p>
+
+    <!-- Glowing Footer Wave -->
+    <p align="center">
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=90&section=footer" />
+    </p>
