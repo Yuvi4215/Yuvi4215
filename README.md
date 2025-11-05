@@ -55,11 +55,11 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuvi4215&show_icons=true&bg_color=000000&title_color=00BFFF&text_color=00FF9F&icon_color=00FF9F&border_color=00BFFF&border_radius=15&include_all_commits=true&count_private=true" width="45%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yuvi4215&show_icons=true&bg_color=000000&title_color=00BFFF&text_color=00FF9F&icon_color=00FF9F&border_color=00BFFF&border_radius=15&include_all_commits=true&count_private=true" width="55%" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Yuvi4215&background=000000&border=00BFFF&ring=00FF9F&fire=00BFFF&currStreakLabel=00FF9F&currStreakNum=00FF9F&sideLabels=00BFFF&sideNums=00FF9F" width="45%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Yuvi4215&background=000000&border=00BFFF&ring=00FF9F&fire=00BFFF&currStreakLabel=00FF9F&currStreakNum=00FF9F&sideLabels=00BFFF&sideNums=00FF9F" width="55%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -67,7 +67,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yuvi4215&theme=onestar&no-frame=true&column=4&margin-w=15&margin-h=15" width="45%" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Yuvi4215&theme=onestar&no-frame=true&column=4&margin-w=15&margin-h=15" width="55%" alt="GitHub Trophies" />
 </p>
 
 ---
