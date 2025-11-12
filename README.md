@@ -12,6 +12,9 @@
   <img src="https://komarev.com/ghpvc/?username=Yuvi4215&label=Profile%20Views&color=FFD700&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-FFD700?style=for-the-badge&logo=react&logoColor=000000" />
   <img src="https://img.shields.io/badge/Lives-India-FFD700?style=for-the-badge&logo=google-earth&logoColor=000000" />
+  <a href="https://www.hackerrank.com/profile/yuvrajvarma4125" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Yuvraj%20Varma-FFD700?style=for-the-badge&logo=hackerrank&logoColor=000000" alt="HackerRank Badge"/>
+  </a>
 </p>
 
 ---
@@ -71,6 +74,7 @@
 </p>
 
 ---
+
 
 ### ⚡ Dynamic Developer Quote
 <p align="center">
