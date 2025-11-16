@@ -1,5 +1,7 @@
+<!-- Glowing Header Wave -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=36&duration=3500&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hey,+I%27m+Yuvraj+Varma;%E2%9A%A1+Full+Stack+Developer;%F0%9F%92%A1+Innovator+%7C+Tech+Visionary;%F0%9F%9A%80+Crafting+Code+With+Elegance" alt="Typing Animation">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFD700&reversal=true&section=header" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=36&duration=3500&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hey,+I%27m+Yuvraj+Varma;%E2%9A%A1+Full+Stack+Developer;%F0%9F%92%A1+Innovator+%7C+Tech+Visionary;%F0%9F%9A%80+Crafting+Code+With+Elegance" alt="Typing Animation">
 </p>
 
 <!-- Golden Divider -->
